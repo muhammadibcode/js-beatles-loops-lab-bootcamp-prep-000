@@ -9,8 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
   return theBeatlesarray;
 }
 
-var x = 0
-
 function johnLennonFacts(facts) {
   while (x < facts.length) {
   facts.splice(x, 1, `${facts[x]}!!!`);
