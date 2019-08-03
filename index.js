@@ -14,7 +14,7 @@ var x = 0
 
 function johnLennonFacts(facts) {
   while (x < facts.length) {
-  johnLennonarray.splice(`${facts[x]}!!!`);
+  johnLennonarray.splice(x, `${facts[x]}!!!`);
   x++;
   }
   return johnLennonarray;
