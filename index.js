@@ -9,7 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
   return theBeatlesarray;
 }
 
-var johnLennonarray = [];
 var x = 0
 
 function johnLennonFacts(facts) {
@@ -17,5 +16,5 @@ function johnLennonFacts(facts) {
   facts.splice(x, 1, `${facts[x]}!!!`);
   x++;
   }
-  return johnLennonarray;
+  return facts;
 }
