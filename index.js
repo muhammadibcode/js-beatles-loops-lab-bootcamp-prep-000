@@ -9,8 +9,13 @@ function theBeatlesPlay(musicians, instruments) {
   return theBeatlesarray;
 }
 
+var johnLennonarray = [];
+x = 0
+
 function johnLennonFacts(facts) {
-  while (var) {
-    
+  while (x < facts.length) {
+  johnLennonarray.push(`${facts[x]}!!!`);
+  x++
   }
+  return johnLennonarray;
 }
