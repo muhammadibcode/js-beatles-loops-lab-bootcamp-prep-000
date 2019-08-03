@@ -1,9 +1,9 @@
 // add solution here
 
-var array1 = [];
+var musiciansarray = [];
 
 function theBeatlesPlay(musicians, instruments); {
   
 }
 
-for (i = 0, )
+for (i = 0, i )
